@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Rey</h1>
-<h3 align="center">A young-dumb 🤓 front end developer from Philippines PH</h3>
+<h3 align="center">A young-dumb 🤓  developer from Philippines PH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greygenos&label=Profile%20views&color=0e75b6&style=flat" alt="greygenos" /> </p>
 
